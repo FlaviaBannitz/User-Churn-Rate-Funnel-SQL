@@ -5,6 +5,8 @@ This project was used in order to learn how to calculate User Churn Rate from a 
 ## Accomplishment:
 I followed the instructions and was able to build this single SQL code using temporary tables, CASE funciton, WITH and aggregate commands
 I ran it and was able to calculate 3 months worth of churn rates from a database avaialble in CodeCademy
+![image](https://github.com/FlaviaBannitz/UserChurnRate/assets/141644278/a110fc48-2f3c-41fb-a668-6de8d50435d3)
+
 
 ## Ask
 
