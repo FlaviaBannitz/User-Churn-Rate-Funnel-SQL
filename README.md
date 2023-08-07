@@ -9,6 +9,7 @@ I ran it and was able to calculate 3 months worth of churn rates from a database
 ## Output
 Click the link to see a quick snapshot of the output
 https://user-images.githubusercontent.com/141644278/258816405-6f7772cb-d6b2-4c5c-97a9-e676f3a98028.png
+
 ## Ask
 
 Please select the test.sqlite file to see the SQL code
